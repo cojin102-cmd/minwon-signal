@@ -1,0 +1,6 @@
+{
+  "name": "민원 감정 시그널",
+  "description": "민원의 어조와 위험 표현을 분석하여 감정 강도와 긴급도를 계산하고 실시간 대시보드와 대응 가이드를 제공하는 공공업무 민원 지원 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
